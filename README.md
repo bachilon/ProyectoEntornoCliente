@@ -36,4 +36,4 @@ SoccerTraining tendrá muchas funcionalidades, algunas de las funcionalidades qu
 
  - **ÁREA DE ENTRENADORES** -->Lee nuestros consejos y trucos sobre coaching.
 
-Enlace a [trello](https://trello.com/invite/b/DsWb0Mr7/c7b1fa58f863031710a09356eb16d2a0/soccertraining).
+Enlace a [trello](https://trello.com/invite/b/UPCdzG3h/877c487b1361d7d56766ae500d47dc69/a).
