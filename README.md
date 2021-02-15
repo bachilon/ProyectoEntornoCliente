@@ -39,5 +39,7 @@ SoccerTraining tendrá muchas funcionalidades, algunas de las funcionalidades qu
 Enlace a [trello](https://trello.com/invite/b/UPCdzG3h/877c487b1361d7d56766ae500d47dc69/a).
 
 
+
 **Arquitectura del Proyecto**
-![enter image description here](https://ibb.co/LncPBCH)
+
+<a href='https://postimg.cc/3dg4DHGc' target='_blank'><img src='https://i.postimg.cc/3dg4DHGc/estructura.png' border='0' alt='estructura'/></a>
