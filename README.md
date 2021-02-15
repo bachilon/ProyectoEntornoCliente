@@ -41,5 +41,4 @@ Enlace a [trello](https://trello.com/invite/b/UPCdzG3h/877c487b1361d7d56766ae500
 
 
 **Arquitectura del Proyecto**
-
-<a href='https://postimg.cc/3dg4DHGc' target='_blank'><img src='https://i.postimg.cc/3dg4DHGc/estructura.png' border='0' alt='estructura'/></a>
+[![estructura.png](https://i.postimg.cc/qMF8SJv4/estructura.png)](https://postimg.cc/3dg4DHGc)
